@@ -1,0 +1,5 @@
+﻿  Assembling CalcMinMax.asm...
+CalcMinMax.asm(4): error A2008: syntax error : r4_MaxFloat
+CalcMinMax.asm(18): error A2006: undefined symbol : r4_MaxFloat
+CalcMinMax.asm(20): error A2006: undefined symbol : real
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\CalcMinMax.obj" /W3 /errorReport:prompt  /TaCalcMinMax.asm" exited with code 1.
