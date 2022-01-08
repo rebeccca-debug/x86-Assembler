@@ -1,3 +1,0 @@
-﻿  Assembling Main.asm...
-Main.asm(29): warning A4023: with /coff switch, leading underscore required for start address : start
-  PointersAndTypeDef.vcxproj -> C:\Users\Israel\source\repos\PointersAndTypeDef\Debug\PointersAndTypeDef.exe
